@@ -1,0 +1,19 @@
+● Describe Delta Lake as a tool for managing data files.
+● Describe that Delta Lake manages table metadata.
+● Identify that Delta Lake tables maintain history for a period of time.
+● Describe the benefits of Delta Lake within the Lakehouse.
+● Compare and contrast the behavior of managed and unmanaged tables.
+● Identify whether a table is managed or unmanaged.
+● Compare and contrast views and temp views.
+● Describe the persistence of data in a view and a temp view
+● Describe persistence and scope of tables on Databricks.
+● Use Databricks to create, use, and drop databases, tables, and views.
+● Explain how the LOCATION keyword changes the default location of database contents.
+● Use Databricks to create, drop, and rename tables.
+● Identify organization-specific considerations of PII data
+
+
+● Explore, preview, and secure data using Data Explorer.
+● Identify the table owner using Data Explorer.
+● Change access rights to a table using Data Explorer.
+● Describe the responsibilities of a table owner.
